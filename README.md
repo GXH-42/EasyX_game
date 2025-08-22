@@ -1,1 +1,1 @@
-# ball
+一些基本的EasyX练习以及Git的使用，Github练习。
